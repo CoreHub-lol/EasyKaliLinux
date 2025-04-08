@@ -2,7 +2,7 @@
 
 ![License Badge](https://img.shields.io/badge/License-MIT-green)
 ![Python Version Badge](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Platform Badge](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-orange)
+![Platform Badge](https://img.shields.io/badge/Platform-Linux-purple)
 ![Version Badge](https://img.shields.io/badge/Version-1.0%20Stable-red)
 
 **Easy Kali Linux** is a user-friendly terminal-based tool designed to simplify the use of popular penetration testing tools available in Kali Linux. With an easy-to-navigate interface and a set of pre-configured commands, this tool allows both beginners and experienced users to quickly run security audits on networks and websites.
