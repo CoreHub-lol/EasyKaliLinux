@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sjc.microlink.io/WabQuPULwWYPctky1MPPVjhkLh9G5INSax6DUcvFICcR0qLk8_kcjiSfGUtAV_1RNVHgotXJDRM_DQP0CbGepQ.jpeg" alt="CoreHub.lol Logo" width="150" />
+  <img src="https://www.corehub.lol/logo.png" alt="CoreHub.lol Logo" width="150" />
   <h1>Easy Kali Linux</h1>
   <p>A user-friendly terminal-based tool for penetration testing</p>
   
