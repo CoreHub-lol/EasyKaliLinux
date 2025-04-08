@@ -1,6 +1,3 @@
-Here is the complete README in one code block for easy copying:
-
-```markdown
 # Easy Kali Linux by CoreHub.lol
 
 ![License Badge](https://img.shields.io/badge/License-MIT-green)
