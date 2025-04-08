@@ -79,7 +79,7 @@ The main goal of this project is to provide simplified access to powerful securi
 ```bash
 git clone https://github.com/corehub/easykalilinux.git
 cd easykalilinux
-```markdown project="Easy Kali Linux" file="README.md"
+markdown project="Easy Kali Linux" file="README.md"
 ```
 
 2. Install required Python packages:
