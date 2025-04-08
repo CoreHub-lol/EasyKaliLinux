@@ -80,7 +80,6 @@ The main goal of this project is to provide simplified access to powerful securi
 git clone https://github.com/corehub/easykalilinux.git
 cd easykalilinux
 ```markdown project="Easy Kali Linux" file="README.md"
-...
 ```
 
 2. Install required Python packages:
@@ -105,41 +104,6 @@ python3 main.py
 ```
 
 3. **Choose an option**: You will be presented with a menu where you can choose from various tools.
-
-
-## Tool Breakdown
-
-### Hydra Brute Force Tool
-
-Hydra is a fast and flexible tool for brute-force password cracking. You can choose from several modules (http-get, ssh, ftp, etc.) and specify the target.
-
-### Nmap Network Scanning Tool
-
-Nmap is a popular tool for network discovery and vulnerability scanning. It can be used to find open ports and discover hosts in a network.
-
-### John the Ripper Password Cracking
-
-John the Ripper is used to crack password hashes. It supports many different hash algorithms and wordlist-based attacks.
-
-### SQLmap SQL Injection Tool
-
-SQLmap automates the process of detecting and exploiting SQL injection vulnerabilities.
-
-### Netcat
-
-Netcat is a versatile networking tool that allows you to read and write data across network connections. It can be used for port scanning, transferring files, and more.
-
-### Nikto Web Scanner
-
-Nikto is a web server scanner that detects various vulnerabilities such as outdated software and security misconfigurations.
-
-### Aircrack-ng
-
-Aircrack-ng is a suite of tools for Wi-Fi network security testing. It supports packet capture, network cracking, and encryption analysis.
-
-### Wireshark
-
-Wireshark is a network protocol analyzer used to capture and analyze the data traveling through your network interfaces.
 
 ## Contribution
 
