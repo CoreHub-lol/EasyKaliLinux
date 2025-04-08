@@ -29,14 +29,16 @@ The main goal of this project is to provide simplified access to powerful hackin
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/easy-kali-linux.git
-cd easy-kali-linux
+git clone https://github.com/corehub/easykalilinux.git
+cd easykalilinux
 ```
 
-Install dependencies (if any):
+Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install colorama
+pip install termcolor
+
 ```
 
 ## Usage
@@ -46,7 +48,7 @@ pip install -r requirements.txt
 2. **Run the tool**:
 
 ```bash
-python easy_kali_linux.py
+python3 main.py
 ```
 
 3. **Choose an option**: You will be presented with a menu where you can choose from various tools (e.g., Hydra, Nmap, SQLmap, etc.).
@@ -101,4 +103,3 @@ This tool is intended for educational and ethical penetration testing purposes o
 For more information, check out the official website: [CoreHub.lol](https://corehub.lol)
 ```
 
-You can easily copy and paste this into your GitHub repository! It includes the required information, badges, and a structured layout for your project.
