@@ -18,7 +18,7 @@
 The main goal of this project is to provide simplified access to powerful security tools such as Hydra, Nmap, SQLmap, Aircrack-ng, and more.
 
 <div align="center">
-  <img src="/placeholder.svg?height=300&width=600" alt="Easy Kali Linux Screenshot" />
+  <img src="https://cdn.discordapp.com/attachments/1349801104589852674/1359248735682433225/image.png?ex=67f6ca88&is=67f57908&hm=3a9a5bb37e2912cd9d44fd2f8094b767ebba5bc50d52ae9c1e5befa0af0b8649&?height=300&width=600" alt="Easy Kali Linux Screenshot" />
 </div>
 
 ## Features
